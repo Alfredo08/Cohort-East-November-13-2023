@@ -1,0 +1,3 @@
+CREATE DATABASE todos_db;
+
+DROP DATABASE todos_db;
