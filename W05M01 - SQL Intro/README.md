@@ -1,5 +1,5 @@
 # D01 W05 | SQL Intro
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-East-November-13-2023/tree/main/W05M01%20-%20SQL%20Intro) | [Vimeo Video Recording](https://vimeo.com/893434135/ca0c23a3a1?share=copy)
 
 ## Topics to cover
 - [X] RDBMS, Structured Data and SQL
