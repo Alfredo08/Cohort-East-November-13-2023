@@ -1,5 +1,5 @@
 # W07 D03 | State Management and Immutable Update Patterns
-[Github Repository]() | [Vimeo Video Recording](https://vimeo.com/901591524/1ca8f06659?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-East-November-13-2023/tree/main/W07D03%20-%20State%20Management%20and%20Immutable%20Update%20Patterns) | [Vimeo Video Recording](https://vimeo.com/901591524/1ca8f06659?share=copy)
 
 ## Topics to cover
 
